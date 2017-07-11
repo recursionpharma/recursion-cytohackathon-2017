@@ -1,6 +1,8 @@
 Porcupines
 ----------
 
+Jan, Josh, Kaupo, Michael
+
  * [Presentation](Presentation.pdf)
  * [Notes.pdf](Notes.pdf)
  * [v1/](v1/) - images without Ilastik correction
